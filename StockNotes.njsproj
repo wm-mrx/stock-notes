@@ -49,6 +49,8 @@
     <TypeScriptCompile Include="app.ts" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <TypeScriptCompile Include="controllers\BaseController.ts" />
+    <TypeScriptCompile Include="models\Configurator.ts" />
     <TypeScriptCompile Include="models\Customer.ts" />
     <TypeScriptCompile Include="models\Sale.ts" />
     <TypeScriptCompile Include="models\Order.ts" />
