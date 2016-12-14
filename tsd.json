@@ -29,9 +29,6 @@
     "multer/multer.d.ts": {
       "commit": "e45879a3b4a6d7e265f21103ae044cefb3cee37c"
     },
-    "socket.io/socket.io.d.ts": {
-      "commit": "e45879a3b4a6d7e265f21103ae044cefb3cee37c"
-    },
     "node-uuid/node-uuid-cjs.d.ts": {
       "commit": "e45879a3b4a6d7e265f21103ae044cefb3cee37c"
     },
